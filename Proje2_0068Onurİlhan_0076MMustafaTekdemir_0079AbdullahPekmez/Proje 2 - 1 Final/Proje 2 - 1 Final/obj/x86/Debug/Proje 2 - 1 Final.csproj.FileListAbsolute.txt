@@ -1,0 +1,11 @@
+C:\Users\ONUR İLHAN\Desktop\Proje 2 - 1 Final\Proje 2 - 1 Final\bin\Debug\Proje 2 - 1 Final.exe
+C:\Users\ONUR İLHAN\Desktop\Proje 2 - 1 Final\Proje 2 - 1 Final\bin\Debug\Proje 2 - 1 Final.pdb
+C:\Users\ONUR İLHAN\Desktop\Proje 2 - 1 Final\Proje 2 - 1 Final\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ONUR İLHAN\Desktop\Proje 2 - 1 Final\Proje 2 - 1 Final\obj\x86\Debug\Proje 2 - 1 Final.exe
+C:\Users\ONUR İLHAN\Desktop\Proje 2 - 1 Final\Proje 2 - 1 Final\obj\x86\Debug\Proje 2 - 1 Final.pdb
+C:\Users\ONUR İLHAN\Desktop\Gönderme işlemleri\Proje2_0068Onurİlhan_0076MMustafaTekdemir_0079AbdullahPekmez\Proje 2 - 1 Final\Proje 2 - 1 Final\obj\x86\Debug\Proje 2 - 1 Final.exe
+C:\Users\ONUR İLHAN\Desktop\Gönderme işlemleri\Proje2_0068Onurİlhan_0076MMustafaTekdemir_0079AbdullahPekmez\Proje 2 - 1 Final\Proje 2 - 1 Final\obj\x86\Debug\Proje 2 - 1 Final.pdb
+C:\Users\PC\Desktop\Proje2_0068Onurİlhan_0076MMustafaTekdemir_0079AbdullahPekmez\Proje 2 - 1 Final\Proje 2 - 1 Final\obj\x86\Debug\Proje 2 - 1 Final.exe
+C:\Users\PC\Desktop\Proje2_0068Onurİlhan_0076MMustafaTekdemir_0079AbdullahPekmez\Proje 2 - 1 Final\Proje 2 - 1 Final\obj\x86\Debug\Proje 2 - 1 Final.pdb
+I:\Dersler\Veri yapıları\Proje2_0068Onurİlhan_0076MMustafaTekdemir_0079AbdullahPekmez\Proje 2 - 1 Final\Proje 2 - 1 Final\obj\x86\Debug\Proje 2 - 1 Final.exe
+I:\Dersler\Veri yapıları\Proje2_0068Onurİlhan_0076MMustafaTekdemir_0079AbdullahPekmez\Proje 2 - 1 Final\Proje 2 - 1 Final\obj\x86\Debug\Proje 2 - 1 Final.pdb
